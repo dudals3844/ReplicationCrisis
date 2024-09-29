@@ -10,3 +10,8 @@ Analysis/.Rhistory
 Analysis/.RData
 Analysis/.Ruserdata
 .Rproj.user
+
+*.csv
+*.sas
+*.xlsx
+
