@@ -15,4 +15,4 @@ Analysis/.Ruserdata
 *.sas
 *.xlsx
 *.parquet
-
+*.pyc
