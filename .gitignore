@@ -16,3 +16,4 @@ Analysis/.Ruserdata
 *.xlsx
 *.parquet
 *.pyc
+*.pkl
